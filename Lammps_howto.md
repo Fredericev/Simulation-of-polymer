@@ -1,5 +1,5 @@
 # Lammps on Mac
-This is a conculsion for Lammps install and running include coding on Macbook.
+This is a procedure for installing and running Lammps, including commands, on Macbook.
 
 **NOTE**: If operating system is windows or Linux, please follow [LAMMPS](https://docs.lammps.org/Install_mac.html)
 
