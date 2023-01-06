@@ -20,8 +20,8 @@ Installing [Homebrew](https://brew.sh/) is the first step to built and configure
 
 ## Running LAMMPS on Mac (Simulation of Polymer as a example)
 - Commands:
-Under the current file：`mpirun -np 4 lmp_mpi -in in.file`
+-Under the current file：`mpirun -np 4 lmp_mpi -in in.file`
 
-Give the file path：`mpirun -np 8 /path/to/lammps/src/lmp_mpi -in in.file`
+-Give the file path：`mpirun -np 8 /path/to/lammps/src/lmp_mpi -in in.file`
 
 
