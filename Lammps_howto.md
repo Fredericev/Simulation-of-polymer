@@ -19,7 +19,7 @@ Installing [Homebrew](https://brew.sh/) is the first step to built and configure
 `% brew install openkim-models`
 
 ## Running LAMMPS on Mac (Simulation of Polymer as a example)
-- Commands:
+Commands:
 
 -Under the current file：`mpirun -np 4 lmp_mpi -in in.file`
 
@@ -29,7 +29,7 @@ Once the table and data as shown in the figure appear, congratulations you have 
 
 <img width="447" alt="截屏2023-01-06 00 25 17" src="https://user-images.githubusercontent.com/74882572/210906610-d889e2a1-ada0-4158-89c3-31d34f613938.png">
 
-## Ovito on mac
+## Ovito
 
 
 
