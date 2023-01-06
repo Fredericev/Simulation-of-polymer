@@ -1,7 +1,7 @@
 # Lammps on Mac
 This is a conculsion for Lammps install and running include coding on Macbook.
 
-If operating system is windows or Linux, please follow [LAMMPS](https://docs.lammps.org/Install_mac.html)
+**NOTE**: If operating system is windows or Linux, please follow [LAMMPS](https://docs.lammps.org/Install_mac.html)
 
 ## Install on Mac
 Installing [Homebrew](https://brew.sh/) is the first step to built and configure LAMMPS on mac.
@@ -33,7 +33,7 @@ Once the table and data as shown in the figure appear, congratulations you have 
 
 Import the generated one into ovito and click "auto-generate"
 
-
+more coming soon..
 
 
 
