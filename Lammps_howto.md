@@ -25,4 +25,9 @@ Installing [Homebrew](https://brew.sh/) is the first step to built and configure
 
 -Give the file path：`mpirun -np 8 /path/to/lammps/src/lmp_mpi -in in.file`
 
+Once the table and data as shown in the figure appear, congratulations you have successfully run！！！:+1:
+
+
+<img width="447" alt="截屏2023-01-06 00 25 17" src="https://user-images.githubusercontent.com/74882572/210906610-d889e2a1-ada0-4158-89c3-31d34f613938.png">
+
 
